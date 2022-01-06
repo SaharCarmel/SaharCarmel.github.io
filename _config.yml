@@ -61,8 +61,8 @@ footer:
 locale: "en-US"
 repository: "https://github.com/SaharCarmel/saharcarmel.github.io"
 # Build settings
-theme: minimal-mistakes-jekyll
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 analytics:
   provider: "google-gtag"
