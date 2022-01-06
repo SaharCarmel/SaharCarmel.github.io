@@ -31,7 +31,11 @@ github_username:  saharcarmel
 locale: "en-US"
 repository: "https://github.com/SaharCarmel/saharcarmel.github.io"
 # Build settings
+# theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+google_site_verification: "G-JMMP5F9R1H"
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
