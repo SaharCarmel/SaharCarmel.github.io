@@ -99,7 +99,11 @@ defaults:
     values:
       show_date: true
       read_time: true
-      # comments: true
+      layout: single
+      author_profile: true
+      comments: true
+      share: true
+      related: true
 
 atom_feed:
   hide: true
@@ -108,6 +112,7 @@ search: true
 
 include:
   - _pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
