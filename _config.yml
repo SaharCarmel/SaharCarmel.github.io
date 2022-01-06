@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sahar Carmel
+title: Sahar-Carmel personal website
 email: augu144@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sahar Carmel perosnal website, we talk here mainly about Deep learning,
@@ -28,10 +28,34 @@ url: "http://saharcarmel.github.io" # the base hostname & protocol for your site
 twitter_username: augu144
 github_username:  saharcarmel
 
+locale: "en-US"
+repository: "https://github.com/SaharCarmel/saharcarmel.github.io"
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+minimal_mistakes_skin: "dark"
+
+# comments:
+#   provider: "disqus"
+#   disqus:
+#     shortname: "http-saharcarmel-github-io"
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      read_time: true
+      # comments: true
+
+atom_feed:
+  hide: true
+
+search: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -41,14 +65,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
