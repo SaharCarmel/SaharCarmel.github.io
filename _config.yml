@@ -31,16 +31,26 @@ github_username:  saharcarmel
 
 author:
   name     : "Sahar Carmel"
-  avatar   : "/site/assets/images/bio-photo.jpeg"
-  bio      : “When I’m old and dying, I plan to look back on my life and say "wow, that was an adventure", not "wow, I sure felt safe.” – Tom Preston-Werner, co-founder Github An entrepreneur by heart and a lifetime gamer and games fan. Python enthusiastic, data fan, and ongoing ML and neural network researcher. Self-learned deep learning, computer vision, reinforcement learning, python, web development. Strong team player, mission-driven, and believing that everything can be learned and done."
+  avatar   : "/assets/images/bio-image.jpeg"
+  bio      : "I strive to learn everything, mostly AI. "
   location : "Tel-Aviv, Israel"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/SaharCarmel"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/saharcarmel/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/augu144"
 
 
 locale: "en-US"
 repository: "https://github.com/SaharCarmel/saharcarmel.github.io"
 # Build settings
-# theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 analytics:
   provider: "google-gtag"
