@@ -75,7 +75,7 @@ google_site_verification: "vm682MpNPQo9C-xojHqBYNx8-pgBiBc_qkXOFlh00HE"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-minimal_mistakes_skin: "dark"
+# minimal_mistakes_skin: "air"
 
 # comments:
 #   provider: "disqus"
@@ -105,6 +105,9 @@ atom_feed:
   hide: true
 
 search: true
+
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
