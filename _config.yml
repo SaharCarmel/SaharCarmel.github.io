@@ -28,6 +28,14 @@ url: "http://saharcarmel.github.io" # the base hostname & protocol for your site
 twitter_username: augu144
 github_username:  saharcarmel
 
+
+author:
+  name     : "Sahar Carmel"
+  avatar   : "/site/assets/images/bio-photo.jpeg"
+  bio      : “When I’m old and dying, I plan to look back on my life and say "wow, that was an adventure", not "wow, I sure felt safe.” – Tom Preston-Werner, co-founder Github An entrepreneur by heart and a lifetime gamer and games fan. Python enthusiastic, data fan, and ongoing ML and neural network researcher. Self-learned deep learning, computer vision, reinforcement learning, python, web development. Strong team player, mission-driven, and believing that everything can be learned and done."
+  location : "Tel-Aviv, Israel"
+
+
 locale: "en-US"
 repository: "https://github.com/SaharCarmel/saharcarmel.github.io"
 # Build settings
