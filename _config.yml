@@ -46,6 +46,18 @@ author:
       url: "https://twitter.com/augu144"
 
 
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/SaharCarmel"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/saharcarmel/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/augu144"
+
 locale: "en-US"
 repository: "https://github.com/SaharCarmel/saharcarmel.github.io"
 # Build settings
