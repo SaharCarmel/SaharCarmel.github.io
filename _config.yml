@@ -40,8 +40,7 @@ analytics:
     tracking_id: "G-JMMP5F9R1H"
     anonymize_ip: false # default
 
-
-google_site_verification: "QNQau1_c0wh7hLizRpbh5ZMCtp_afQfKk1pyhK1zuMo"
+google_site_verification: "vm682MpNPQo9C-xojHqBYNx8-pgBiBc_qkXOFlh00HE"
 
 plugins:
   - jekyll-feed
