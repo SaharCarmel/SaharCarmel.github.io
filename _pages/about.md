@@ -25,7 +25,7 @@ I'm also in love with open source. Checkout my [<i class="fab fa-github"></i>  G
 
 ## Entrepreneur
 
-I'm an entrepreneur by heart, my 
+I'm an entrepreneur by heart, built couple of companies built to solve problems, so far none of them succeeded. If you have an interesting idea, contact me and let's talk. 
 
 ## Father
 
