@@ -108,7 +108,7 @@ defaults:
 atom_feed:
   hide: true
 
-search: true
+search: false
 
 include:
   - _pages
