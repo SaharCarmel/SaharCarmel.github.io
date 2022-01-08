@@ -13,7 +13,7 @@ header:
 
 # Hi there! I'm Sahar
 
-I'm an **AI researcher & engineer**  **Entrepreneur** and a **Father**.
+I'm an **AI researcher & engineer**, **Entrepreneur** and a **Father**.
 
 ## AI
 
@@ -25,12 +25,12 @@ I'm also in love with open source. Checkout my [<i class="fab fa-github"></i>  G
 
 ## Entrepreneur
 
-I'm an entrepreneur by heart, built couple of companies built to solve problems, so far none of them succeeded. If you have an interesting idea, contact me and let's talk. 
+I'm an entrepreneur by heart, built couple of companies, my last one was [MonstersAcademy](www.monstersacademy.tech) where we have developed a revolutionary product that trains and implements smart human like bots to games.I'm actively looking for new adventures, so if you have an interesting idea, contact me and let's talk. 
 
 ## Father
 
 I have a little girl named Dror that gives me the reason to wake up (Along my beloved wife Nofar). 
-Being a parent gives me a better perspective on the important things in life.
+I gain a better appreciation of life's important things after becoming a parent.
 
 
 I work at Tel-Aviv and loves to meet new people. Drop me a message if you're around. I'll be more than happy to offer you an Espresso ☕️!
