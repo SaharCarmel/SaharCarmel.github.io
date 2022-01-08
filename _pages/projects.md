@@ -14,21 +14,21 @@ header:
     show_overlay_excerpt: false
 ---
 
-## Cupy
+## [Cupy](https://github.com/cupy/cupy)
 
 <a class="github-button" href="https://github.com/cupy/cupy" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cupy/cupy on GitHub">Star</a> <a class="github-button" href="https://github.com/cupy/cupy/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork cupy/cupy on GitHub">Fork</a>
 
 🤝 I have contributed to Cupy, a powerful gpu based numpy like tool.
 
 
-## Python Devops template
+## [Python Devops template](https://github.com/SaharCarmel/Devops-template)
 
 <a class="github-button" href="https://github.com/SaharCarmel/Devops-template" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star SaharCarmel/Devops-template on GitHub">Star</a> <a class="github-button" href="https://github.com/SaharCarmel/Devops-template/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork SaharCarmel/Devops-template on GitHub">Fork</a>
 
 🎖️ I have created a devops template for python projects for basic linting, unittesting, docs building (using sphinx), classes and functions docstring checks and more. The project is live and you are welcome to contribute and suggest features that you fancy.
 
 
-## Memristor neural network simulation
+## [Memristor neural network simulation](https://github.com/SaharCarmel/Memristor-NN)
 
 <a class="github-button" href="https://github.com/SaharCarmel/Memristor-NN" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star SaharCarmel/Memristor-NN on GitHub">Star</a> <a class="github-button" href="https://github.com/SaharCarmel/Memristor-NN/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork SaharCarmel/Memristor-NN on GitHub">Fork</a>
 
