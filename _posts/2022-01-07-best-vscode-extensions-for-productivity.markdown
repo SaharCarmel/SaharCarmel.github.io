@@ -107,15 +107,79 @@ As a data freak, I fell in love with Code time. This extensions tracks your acti
 
 ## Code stream -->
 
-<!-- {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+## Quick install of all of my extensions
+
+Here is a simple and easy bash snipper to paste and run in order to instantly install all of my extensions. Not all of the extensions were mentioned in this article. Have fun and happy coding. 
+
+{% highlight bash %}
+code --install-extension alefragnani.project-manager
+code --install-extension arcticicestudio.nord-visual-studio-code
+code --install-extension austin.code-gnu-global
+code --install-extension chrmarti.regex
+code --install-extension CodeStream.codestream
+code --install-extension codezombiech.gitignore
+code --install-extension cschlosser.doxdocgen
+code --install-extension dongli.python-preview
+code --install-extension dracula-theme.theme-dracula
+code --install-extension dseight.disasexpl
+code --install-extension eamodio.gitlens
+code --install-extension felipecaputo.git-project-manager
+code --install-extension formulahendry.docker-explorer
+code --install-extension Gimly81.matlab
+code --install-extension GitHub.copilot
+code --install-extension GitHub.remotehub
+code --install-extension GitHub.vscode-pull-request-github
+code --install-extension GrapeCity.gc-excelviewer
+code --install-extension hbenl.vscode-test-explorer
+code --install-extension hbenl.vscode-test-explorer-liveshare
+code --install-extension jeff-hykin.better-cpp-syntax
+code --install-extension johnpapa.vscode-peacock
+code --install-extension karigari.chat
+code --install-extension KevinRose.vsc-python-indent
+code --install-extension littlefoxteam.vscode-python-test-adapter
+code --install-extension lostintangent.vsls-whiteboard
+code --install-extension mads-hartmann.bash-ide-vscode
+code --install-extension mechatroner.rainbow-csv
+code --install-extension mhutchie.git-graph
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension ms-vscode-remote.remote-ssh
+code --install-extension ms-vscode-remote.remote-ssh-edit
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension ms-vscode-remote.vscode-remote-extensionpack
+code --install-extension ms-vscode.cmake-tools
+code --install-extension ms-vscode.cpptools
+code --install-extension ms-vscode.cpptools-extension-pack
+code --install-extension ms-vscode.cpptools-themes
+code --install-extension ms-vscode.test-adapter-converter
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension ms-vsliveshare.vsliveshare-audio
+code --install-extension ms-vsliveshare.vsliveshare-pack
+code --install-extension nickmillerdev.pytest-fixtures
+code --install-extension njpwerner.autodocstring
+code --install-extension Perkovec.emoji
+code --install-extension PKief.material-icon-theme
+code --install-extension redhat.vscode-commons
+code --install-extension redhat.vscode-yaml
+code --install-extension reverbc.vscode-pytest
+code --install-extension ritwickdey.LiveServer
+code --install-extension Shan.code-settings-sync
+code --install-extension softwaredotcom.swdc-vscode
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension thesofakillers.vscode-pbtxt
+code --install-extension twxs.cmake
+code --install-extension VisualStudioExptTeam.vscodeintellicode
+code --install-extension wayou.vscode-todo-highlight
+code --install-extension yzhang.markdown-all-in-one
+code --install-extension zxh404.vscode-proto3
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
