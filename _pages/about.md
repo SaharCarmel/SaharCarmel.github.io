@@ -25,7 +25,7 @@ I'm also in love with open source. Checkout my [<i class="fab fa-github"></i>  G
 
 ## Entrepreneur
 
-I'm an entrepreneur by heart, built couple of companies, my last one was [MonstersAcademy](www.monstersacademy.tech) where we have developed a revolutionary product that trains and implements smart human like bots to games.I'm actively looking for new adventures, so if you have an interesting idea, contact me and let's talk. 
+I'm an entrepreneur by heart, built couple of companies, my last one was [MonstersAcademy](https://monstersacademy.tech) where we have developed a revolutionary product that trains and implements smart human like bots to games.I'm actively looking for new adventures, so if you have an interesting idea, contact me and let's talk. 
 
 ## Father
 
